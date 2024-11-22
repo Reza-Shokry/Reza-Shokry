@@ -5,7 +5,7 @@
 💻 **Skills:**
 - Programming Languages: Python, C++, Fortran, MATLAB, Java.
 - Tools & Frameworks: Arduino, Simulink, OpenCV, Git/GitHub, HTML, CSS.
-- Areas of Expertise: Machine Learning, Image Processing, Computer Vision, Data Analysis.
+- Areas of Expertise: Image Processing, Computer Vision , Machine Learning, Data Analysis.
 
 🌟 **Interests:**
 I’m deeply passionate about leveraging technology to make an impact, especially in the fields of machine learning, image processing, and data-driven solutions. My goal is to continuously grow and explore new horizons in engineering and computer science.
